@@ -26,7 +26,6 @@
 
 ```bash
 claude plugin marketplace add Howthemeaning/arch-analyzer --scope user
-claude plugin install arch-analyzer@arch-analyzer-marketplace --scope user
 ```
 
 ### 2. 在目标项目中使用
