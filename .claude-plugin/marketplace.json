@@ -1,32 +1,23 @@
 {
-  "name": "howthemeaning-plugins",
+  "name": "arch-analyzer-marketplace",
+  "description": "Marketplace for the arch-analyzer Claude Code plugin.",
+  "metadata": {
+    "description": "Marketplace for installing the arch-analyzer plugin."
+  },
   "owner": {
-    "name": "Howthemeaning",
-    "url": "https://github.com/Howthemeaning"
+    "name": "Howthemeaning"
   },
   "plugins": [
     {
       "name": "arch-analyzer",
-      "displayName": "Arch Analyzer",
       "description": "项目分析套件 - 代码分析、架构图生成、技术博客写作",
       "version": "1.0.0",
       "author": {
-        "name": "Howthemeaning",
-        "url": "https://github.com/Howthemeaning"
+        "name": "Howthemeaning"
       },
-      "repository": "https://github.com/Howthemeaning/arch-analyzer",
-      "source": ".",
-      "license": "MIT",
-      "keywords": [
-        "claude-code",
-        "code-analysis",
-        "architecture",
-        "technical-blog",
-        "mermaid"
-      ],
-      "categories": ["Development Tools", "Documentation"],
-      "readme": "README.md",
-      "plugin": "plugin.json"
+      "source": "./arch-analyzer",
+      "category": "productivity",
+      "homepage": "https://github.com/Howthemeaning/arch-analyzer"
     }
   ]
 }

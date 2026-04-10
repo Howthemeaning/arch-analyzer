@@ -1,0 +1,18 @@
+{
+  "name": "arch-analyzer",
+  "version": "1.0.0",
+  "description": "项目分析套件 - 代码分析、架构图生成、技术博客写作",
+  "author": {
+    "name": "Howthemeaning"
+  },
+  "homepage": "https://github.com/Howthemeaning/arch-analyzer",
+  "repository": "https://github.com/Howthemeaning/arch-analyzer",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "code-analysis",
+    "architecture",
+    "technical-blog",
+    "mermaid"
+  ]
+}
