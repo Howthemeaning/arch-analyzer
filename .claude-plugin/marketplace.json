@@ -1,5 +1,5 @@
 {
-  "name": "Howthemeaning's Plugins",
+  "name": "howthemeaning-plugins",
   "owner": {
     "name": "Howthemeaning",
     "url": "https://github.com/Howthemeaning"
@@ -15,7 +15,7 @@
         "url": "https://github.com/Howthemeaning"
       },
       "repository": "https://github.com/Howthemeaning/arch-analyzer",
-      "source": "https://github.com/Howthemeaning/arch-analyzer.git",
+      "source": ".",
       "license": "MIT",
       "keywords": [
         "claude-code",
@@ -25,7 +25,6 @@
         "mermaid"
       ],
       "categories": ["Development Tools", "Documentation"],
-      "icon": "icon.png",
       "readme": "README.md",
       "plugin": "plugin.json"
     }
