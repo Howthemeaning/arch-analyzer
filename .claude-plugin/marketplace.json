@@ -1,4 +1,5 @@
 {
+  "name": "Howthemeaning's Plugins",
   "owner": {
     "name": "Howthemeaning",
     "url": "https://github.com/Howthemeaning"
@@ -13,10 +14,8 @@
         "name": "Howthemeaning",
         "url": "https://github.com/Howthemeaning"
       },
-      "repository": {
-        "type": "git",
-        "url": "https://github.com/Howthemeaning/arch-analyzer"
-      },
+      "repository": "https://github.com/Howthemeaning/arch-analyzer",
+      "source": "https://github.com/Howthemeaning/arch-analyzer.git",
       "license": "MIT",
       "keywords": [
         "claude-code",
